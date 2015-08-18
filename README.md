@@ -48,7 +48,9 @@
 ----
 
 106: **Player Order**
-> All players in the following list are considered eligible voters. The game follows the following turn order:
+> All players in the following list are considered eligible voters. 
+
+>The game follows the following turn order:
 >> `INSUFFICIENT PLAYERS FOR MEANINGFUL RULE`
 
 [[1](https://github.com/stolksdorf/nomic/pull/1)]
