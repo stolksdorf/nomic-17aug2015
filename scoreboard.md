@@ -1,1 +1,3 @@
-**Scott** (@stolksdorf) : 0
+| Players       | Points |
+| ------------- |-------:|
+| @stolksdorf   | 0      |
