@@ -21,7 +21,9 @@
 
 >> (1) proposing one rule-change and having it voted on
 
->> (2) throwing one d6 once and adding the number of points on its face to one's score.
+>> (2) generate a random number between 1 and 6 <sup>1</sup>. That number is added to the player's score.
+
+<sup>1</sup>[how2play.md - randomness](https://github.com/stolksdorf/nomic/blob/master/how2play.md#what-about-randomness)
 
 [[1](https://github.com/stolksdorf/nomic/pull/1)]
 
