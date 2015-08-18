@@ -21,7 +21,7 @@
 
 >> (1) propose one rule-change.
 
->> (2) generate a random number between 1 and 6 <sup>1</sup>. That number is added to the player's score.
+>> (2) generate a random number between 1 and 6<sup>1</sup>. That number is added to the player's score.
 
 >> (3) proposed rule change is voted on and either accepted or declined. If accepted, the change takes effect immediately.  
 
