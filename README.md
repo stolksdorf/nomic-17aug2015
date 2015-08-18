@@ -25,9 +25,9 @@
 
 >> (3) proposed rule change is voted on and either accepted or declined. If accepted, the change takes effect immediately.  
 
-<sup>1</sup>[how2play.md - randomness](https://github.com/stolksdorf/nomic/blob/master/how2play.md#what-about-randomness)
-
 [[1](https://github.com/stolksdorf/nomic/pull/1)]
+
+<sup>1</sup>[how2play.md - randomness](https://github.com/stolksdorf/nomic/blob/master/how2play.md#what-about-randomness)
 
 ----
 
@@ -48,7 +48,7 @@
 ----
 
 106: **Player Order**
-> The game follows the following turn order:
+> All players in the following list are considered eligible voters. The game follows the following turn order:
 >> `INSUFFICIENT PLAYERS FOR MEANINGFUL RULE`
 
 [[1](https://github.com/stolksdorf/nomic/pull/1)]
