@@ -17,11 +17,13 @@
 ----
 
 103: **Turn Structure**
-> One turn consists of two parts in this order: 
+> One turn consists of three parts in this order: 
 
->> (1) proposing one rule-change and having it voted on
+>> (1) propose one rule-change.
 
 >> (2) generate a random number between 1 and 6 <sup>1</sup>. That number is added to the player's score.
+
+>> (3) proposed rule change is voted on and either accepted or declined. If accepted, the change takes effect immediately.  
 
 <sup>1</sup>[how2play.md - randomness](https://github.com/stolksdorf/nomic/blob/master/how2play.md#what-about-randomness)
 
