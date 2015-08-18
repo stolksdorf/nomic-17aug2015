@@ -23,7 +23,7 @@ All you need is a github account. All rules will always be recorded in the [READ
 
 Some parts of the game may require randomness. We will be using a random number site that let's us set seeds. We will use the url of the pull request in question to generate the random number.
 
-for example : [https://www.random.org/integers/?num=1&min=1&max=6&col=5&base=10&format=plain&rnd=id.https://github.com/stolksdorf/nomos-test/pull/1](https://www.random.org/integers/?num=1&min=1&max=6&col=5&base=10&format=plain&rnd=id.https://github.com/stolksdorf/nomos-test/pull/1) will get a random number between 1 and 6, using Jared's first pull request as a seed. Therefore it will always be 6.
+for example : [https://www.random.org/integers/?num=1&min=1&max=6&col=5&base=10&format=plain&rnd=id.https://github.com/stolksdorf/nomos-test/pull/1](https://www.random.org/integers/?num=1&min=1&max=6&col=5&base=10&format=plain&rnd=id.https://github.com/stolksdorf/nomic/pull/1) will get a random number between 1 and 6, using Scott's first pull request as a seed. Therefore it will always be 3.
 
 ### moderators
 
