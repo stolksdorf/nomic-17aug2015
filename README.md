@@ -3,7 +3,7 @@
 101: **Victory Condition**
 > The first player to reach 100 points wins the game.
 
-[[0](https://github.com/stolksdorf/nomic/pull/1)]
+[[1](https://github.com/stolksdorf/nomic/pull/1)]
 
 ----
 
@@ -12,7 +12,7 @@
 
 > Points may not be gained, lost, or traded except as explicitly stated in the rules.
   
-[[0](https://github.com/stolksdorf/nomic/pull/1)]
+[[1](https://github.com/stolksdorf/nomic/pull/1)]
 
 ----
 
@@ -23,7 +23,7 @@
 
 >> (2) throwing one d6 once and adding the number of points on its face to one's score.
 
-[[0](https://github.com/stolksdorf/nomic/pull/1)]
+[[1](https://github.com/stolksdorf/nomic/pull/1)]
 
 ----
 
@@ -32,14 +32,14 @@
 
 > If this rule (rule 104) is not amended by the end of the second complete circuit of turns, it automatically changes to require only a simple majority.
 
-[[0](https://github.com/stolksdorf/nomic/pull/1)]
+[[1](https://github.com/stolksdorf/nomic/pull/1)]
 
 ----
 
 105: **Ab Initio** 
 > If two or more rules conflict with one another, then the rule with the lowest ordinal number takes precedence.
 
-[[0](https://github.com/stolksdorf/nomic/pull/1)]
+[[1](https://github.com/stolksdorf/nomic/pull/1)]
 
 ----
 
@@ -47,7 +47,7 @@
 > The game follows the following turn order:
 >> `INSUFFICIENT PLAYERS FOR MEANINGFUL RULE`
 
-[[0](https://github.com/stolksdorf/nomic/pull/1)]
+[[1](https://github.com/stolksdorf/nomic/pull/1)]
 
 ----
 
@@ -56,6 +56,6 @@
 
 >The player with the highest point value at this time wins the game.
 
-[[0](https://github.com/stolksdorf/nomic/pull/1)]
+[[1](https://github.com/stolksdorf/nomic/pull/1)]
 
 ----
