@@ -6,3 +6,5 @@ wcarss      | 0
 robee       | 0
 McCsocks    | 0
 DukeKataron | 0
+JMTyler     | 0
+lpellow     | 0
