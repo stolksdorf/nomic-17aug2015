@@ -61,7 +61,8 @@
 >> - mimosacb
 >> - McCsocks
 
-[[1](https://github.com/stolksdorf/nomic/compare/master...ktrain:patch-1?expand=1)]
+[[1](https://github.com/stolksdorf/nomic/pull/1)]
+[[2](https://github.com/stolksdorf/nomic/pull/2)]
 
 ----
 
