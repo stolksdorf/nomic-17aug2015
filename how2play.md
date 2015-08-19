@@ -25,6 +25,22 @@ Some parts of the game may require randomness. We will be using a random number 
 
 for example: `bca7e9b2476aa1d42c13196b358e847b388b3a6c` is the git commit hash of [Scott's first pull request](https://github.com/stolksdorf/nomic/pulls), so [https://www.random.org/integers/?num=1&min=1&max=6&col=5&base=10&format=plain&rnd=id.bca7e9b2476aa1d42c13196b358e847b388b3a6c](https://www.random.org/integers/?num=1&min=1&max=6&col=5&base=10&format=plain&rnd=id.bca7e9b2476aa1d42c13196b358e847b388b3a6c) will get a random number between 1 and 6, using this as the seed. Therefore it will always be 4.
 
+
+### implicit rules
+There are some aspects of the game that will not be listed as a changable rule, but still will take effect. Most of these will be obvious, but we'll list them here for reference.
+
+* Players will obey the rules at all times
+* Players are considered playing the game unless explicitly stated
+* It is assumed that when you propose a rule change, you are in favour of it. If you wish to vote against your own rule, you must state that within the pull request of the proposal.
+
 ### moderators
 
-Each moderator will be set as a `collaborator` on the github repo, all other players will be `contributors`. Their job is to merge in approved pull requests, close disapproved ones, and update scores if need be. We will have **two moderators**: Jared and Scott. If we feel the need to appoint more, we can. Just let the mods know.
+Each moderator will be set as a `collaborator` on the github repo, all other players will be `contributors`. Their job is to merge in approved pull requests, close disapproved ones, and update scores if need be. We will have two moderators
+
+* JMtyler
+* stolksdorf
+ 
+If we feel the need to appoint more, we can. Just let the mods know.
+
+### the arbiter
+The arbiter is an impartial non-player who, if need be, can be used for the game. eg. Determining the starting player order. **ktrain** will be our arbiter for this round.
