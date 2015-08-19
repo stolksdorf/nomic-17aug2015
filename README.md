@@ -51,9 +51,17 @@
 > All players in the following list are considered eligible voters. 
 
 >The game follows the following turn order:
->> `INSUFFICIENT PLAYERS FOR MEANINGFUL RULE`
+>> - robee
+>> - stolksdorf
+>> - DukeKataron
+>> - JMTyler
+>> - Meggeroni
+>> - lpellow
+>> - wcarss
+>> - mimosacb
+>> - McCsocks
 
-[[1](https://github.com/stolksdorf/nomic/pull/1)]
+[[1](https://github.com/stolksdorf/nomic/compare/master...ktrain:patch-1?expand=1)]
 
 ----
 
