@@ -79,7 +79,8 @@
 ----
 
 ##### 108: Rule of Expediency
-> Proposed rules are automiatically accepted exactly 24 hours after the proposal of the rule if the rule has not already been rejected.
+> Proposed rules are automatically accepted exactly 24 hours after the proposal regardless of whether a decision has been reached as per rule 104.
+
 
 [[3](https://github.com/stolksdorf/nomic/pull/3)]
 ----
