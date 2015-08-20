@@ -1,9 +1,11 @@
 ## Rules
 
-##### 101: Victory Condition
-> The first player to reach 100 points wins the game.
+##### 101: Victory Condition(s)
+> 1. The first player to reach 100 points wins the game.
+> 2. The player with the largest number of points when the game ends (rule 107) is automatically declared victorious.
 
 [[1](https://github.com/stolksdorf/nomic/pull/1)]
+[[3](https://github.com/stolksdorf/nomic/pull/3)]
 
 ----
 
@@ -31,12 +33,11 @@
 
 ----
 
-##### 104: All hands-in Rule
-> A rule-change is adopted if and only if the vote is unanimous among the eligible voters. 
-
-> If this rule (rule 104) is not amended by the end of the second complete circuit of turns, it automatically changes to require only a simple majority.
+##### 104: Simple majority rule
+> A rule-change is adopted if and only if there is a simple majority of affirmative votes. 
 
 [[1](https://github.com/stolksdorf/nomic/pull/1)]
+[[3](https://github.com/stolksdorf/nomic/pull/3)]
 
 ----
 
@@ -67,10 +68,19 @@
 ----
 
 ##### 107: Rule of Completion
-> This game ends on September 1st 2015, midnight. 
+> This game ends on September 1st 2015, 11:59pm EST. 
 
->The player with the highest point value at this time wins the game.
 
 [[1](https://github.com/stolksdorf/nomic/pull/1)]
+[[3](https://github.com/stolksdorf/nomic/pull/3)]
 
+----
+
+----
+
+##### 108: Rule of Expediency
+> Exactly 24 hours after a proposal is created votes can no longer be cast and the decision criteria are evaluated (ie. vote is tallied) as per rule 104. Players who fail to vote before this time are not included in determining whether a decision is made as per rule 104. In the event that no votes are cast the rule-change is passed.
+
+
+[[3](https://github.com/stolksdorf/nomic/pull/3)]
 ----
