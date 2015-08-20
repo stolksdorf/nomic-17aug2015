@@ -1,6 +1,6 @@
 Players     | Points
 ------------| ---:
-robee       | 0
+robee       | 4
 stolksdorf  | 0
 DukeKataron | 0
 JMTyler     | 0
