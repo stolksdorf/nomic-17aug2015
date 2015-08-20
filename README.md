@@ -79,7 +79,7 @@
 ----
 
 ##### 108: Rule of Expediency
-> Proposed rules are automatically accepted exactly 24 hours after the proposal regardless of whether a decision has been reached as per rule 104.
+> Exactly 24 hours after a proposal is created votes can no longer be cast and the decision criteria are evaluated (ie. vote is tallied) as per rule 104. Players who fail to vote before this time are not included in determining whether a decision is made as per rule 104. In the event that no votes are cast the rule-change is passed.
 
 
 [[3](https://github.com/stolksdorf/nomic/pull/3)]
