@@ -5,6 +5,7 @@
 > 2. The player with the largest number of points when the game ends (rule 107) is automatically declared victorious.
 
 [[1](https://github.com/stolksdorf/nomic/pull/1)]
+[[3](https://github.com/stolksdorf/nomic/pull/3)]
 
 ----
 
@@ -36,6 +37,7 @@
 > A rule-change is adopted if and only if there is a simple majority of affirmative votes. 
 
 [[1](https://github.com/stolksdorf/nomic/pull/1)]
+[[3](https://github.com/stolksdorf/nomic/pull/3)]
 
 ----
 
@@ -70,6 +72,7 @@
 
 
 [[1](https://github.com/stolksdorf/nomic/pull/1)]
+[[3](https://github.com/stolksdorf/nomic/pull/3)]
 
 ----
 
@@ -78,5 +81,5 @@
 ##### 108: Rule of Expediency
 > Proposed rules are automiatically accepted exactly 24 hours after the proposal of the rule if the rule has not already been rejected.
 
-[[1](https://github.com/stolksdorf/nomic/pull/3)]
+[[3](https://github.com/stolksdorf/nomic/pull/3)]
 ----
