@@ -1,7 +1,7 @@
 Players     | Points
 ------------| ---:
 robee       | 4
-stolksdorf  | 0
+stolksdorf  | 3
 DukeKataron | 0
 JMTyler     | 0
 Meggeroni   | 0
