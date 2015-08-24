@@ -31,12 +31,19 @@
 
 ----
 
-##### 104: All hands-in Rule
-> A rule-change is adopted if and only if the vote is unanimous among the eligible voters. 
+##### 104: The Layer Cake Rule
+> Any rule proposal that involves a rule numbered from 000 to 099 inclusively, requires unanimous votes among the eligible voters to be adopted.
 
-> If this rule (rule 104) is not amended by the end of the second complete circuit of turns, it automatically changes to require only a simple majority.
+> Any rule proposal that involves a rule numbered from 100 to 199 inclusively, requires a majority of the votes among the eligible voters to be adopted.
+
+> Any rule proposal that involves a rule numbered from 200 to 299 inclusively, requires a 30% of the votes among the eligible voters to be adopted.
+
+> Any rule proposal that involves a rule numbered from 300 to 399 inclusively, requires a single vote from an eligible voter that has a veto, other than then player that proposed the rule, to be adopted.
+
+> If a rule proposal involves multiple rules, the rule with the lowest cardinal number is used to determine the voting threshold mention aboved.
 
 [[1](https://github.com/stolksdorf/nomic/pull/1)]
+[[4](https://github.com/stolksdorf/nomic/pull/4)]
 
 ----
 
