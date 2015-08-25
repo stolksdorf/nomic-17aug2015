@@ -60,7 +60,7 @@
 >The game follows the following turn order:
 >> - robee
 >> - stolksdorf
->> - DukeKataron
+>> - Grand Admiral DukeKataron
 >> - JMTyler
 >> - Meggeroni
 >> - lpellow
@@ -76,11 +76,15 @@
 ##### 107: Rule of Completion
 > This game ends on September 1st 2015, midnight. 
 
->The player with the highest point value at this time wins the game.
+> The player with the highest point value at this time wins the game.
 
 [[1](https://github.com/stolksdorf/nomic/pull/1)]
 
 ----
 
-#### 108: The Grand Admiralty Rule
+##### 108: The Grand Admiralty Rule
 > The player known as DukeKataron is to be granted the title of Grand Admiral. A title which, at present, means absolutely nothing. But it makes the player feel good about himself. Should this player fall in glorious battle, the title passes to JMTyler to carry on the legacy.
+
+[[5](https://github.com/stolksdorf/nomic/pull/5)
+
+----
