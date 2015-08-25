@@ -85,6 +85,6 @@
 ##### 108: The Grand Admiralty Rule
 > The player known as DukeKataron is to be granted the title of Grand Admiral. A title which, at present, means absolutely nothing. But it makes the player feel good about himself. Should this player fall in glorious battle, the title passes to JMTyler to carry on the legacy.
 
-[[5](https://github.com/stolksdorf/nomic/pull/5)
+[[5](https://github.com/stolksdorf/nomic/pull/5)]
 
 ----
