@@ -21,11 +21,11 @@
 
 >> (1) propose one rule-change.
 
->> (2) generate a random number between 1 and 6<sup>1</sup>. That number is added to the player's score.
+>> (2) proposed rule change is voted on and either accepted or declined. If accepted, the change takes effect immediately.
 
->> (3) proposed rule change is voted on and either accepted or declined. If accepted, the change takes effect immediately.  
+>> (3) generate a random number between 1 and 6<sup>1</sup>. That number, plus the number of approvals of this player's proposal, is added to the player's score.
 
-[[1](https://github.com/stolksdorf/nomic/pull/1)]
+[[1](https://github.com/stolksdorf/nomic/pull/1)] [[6](https://github.com/stolksdorf/nomic/pull/6)]
 
 <sup>1</sup>[how2play.md - randomness](https://github.com/stolksdorf/nomic/blob/master/how2play.md#what-about-randomness)
 
