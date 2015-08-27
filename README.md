@@ -94,6 +94,6 @@
 
 [[7](https://github.com/stolksdorf/nomic/pull/7)]
 
-<sup>1</sup>[how2play.md - randomness](https://github.com/stolksdorf/nomic/blob/master/how2play.md#the-arbiter)
+<sup>1</sup>[how2play.md - the arbiter](https://github.com/stolksdorf/nomic/blob/master/how2play.md#the-arbiter)
 
 ----
