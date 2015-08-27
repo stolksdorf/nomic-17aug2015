@@ -88,3 +88,8 @@
 [[5](https://github.com/stolksdorf/nomic/pull/5)]
 
 ----
+
+##### 200: Noble Dog Gives Noble Buck 
+> When a player proposes a rule change, they may leave one (1) inspirational quote or funny joke in their initial comment to earn one (1) Mackenzie-Buck. If a joke's comedic value or a quote's inspirational merit is in question, **ktrain** will rule and Mackenzie-Buck will be awarded accordingly.
+
+----
