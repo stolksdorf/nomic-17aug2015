@@ -76,12 +76,13 @@
 
 ----
 
-##### 107: Rule of Completion
-> This game ends on September 1st 2015, midnight. 
+##### 107: Rule of Timely Completion
+> This game ends at 11:59:59 PM EDT on September 13th, 2015 AD. 
 
 > The player with the highest point value at this time wins the game.
 
 [[1](https://github.com/stolksdorf/nomic/pull/1)]
+[[9](https://github.com/stolksdorf/nomic/pull/9)]
 
 ----
 
