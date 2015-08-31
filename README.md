@@ -57,7 +57,7 @@
 ##### 106: Player Order
 > All players in the following list are considered eligible voters. 
 
->The game follows the following turn order:
+>The first round follows the following turn order:
 >> - robee
 >> - stolksdorf
 >> - Grand Admiral DukeKataron
@@ -67,6 +67,8 @@
 >> - wcarss
 >> - mimosacb
 >> - McCsocks
+
+> In all subsequent rounds, the player order is shuffled after the last turn of the previous round such that the player order proceeds from least to most points. This action shall be referred to as "The Pip Shuffle" and will be coordinated by the moderators.
 
 [[1](https://github.com/stolksdorf/nomic/pull/1)]
 [[2](https://github.com/stolksdorf/nomic/pull/2)]
