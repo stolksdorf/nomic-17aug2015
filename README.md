@@ -93,6 +93,13 @@
 
 ----
 
+##### 109: Have a Drink on Me
+> At any time players may transfer any number of their points or Mackenzie-Bucks to any other player.
+
+[[10](https://github.com/stolksdorf/nomic/pull/10)]
+
+----
+
 ##### 200: Noble Dog Gives Noble Buck 
 > When a player proposes a rule change, they may leave one (1) inspirational quote or funny joke in their initial comment description to earn one (1) Mackenzie-Buck. If a joke's comedic value or a quote's inspirational merit is in question, the arbiter<sup>1</sup>, **ktrain**, will rule and Mackenzie-Buck will be awarded accordingly.
 
