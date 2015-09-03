@@ -94,9 +94,11 @@
 ----
 
 ##### 109: Have a Drink on Me
-> At any time players may transfer any number of their points or Mackenzie-Bucks to any other player.
+> At any time players may transfer<sup>1</sup> any number of their points or Mackenzie-Bucks to any other player.
 
 [[10](https://github.com/stolksdorf/nomic/pull/10)]
+
+<sup>1</sup>[how2play.md - transfers](https://github.com/stolksdorf/nomic/blob/master/how2play.md#transfers)
 
 ----
 
