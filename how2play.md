@@ -25,6 +25,9 @@ Some parts of the game may require randomness. We will be using a random number 
 
 for example: `bca7e9b2476aa1d42c13196b358e847b388b3a6c` is the git commit hash of [Scott's first pull request](https://github.com/stolksdorf/nomic/pulls), so [https://www.random.org/integers/?num=1&min=1&max=6&col=5&base=10&format=plain&rnd=id.bca7e9b2476aa1d42c13196b358e847b388b3a6c](https://www.random.org/integers/?num=1&min=1&max=6&col=5&base=10&format=plain&rnd=id.bca7e9b2476aa1d42c13196b358e847b388b3a6c) will get a random number between 1 and 6, using this as the seed. Therefore it will always be 4.
 
+### transfers
+To initiate  a transfer of any kind between two players, one of those players submits a pull request for the [scoreboard.md](scoreboard.md) outlining the exchange. The other participant must approve the proposed exchange in the comments. Once approved a Mod will merge the change in. Please mark any transfer pull request by starting the pull request name with 'TRANSFER'.
+
 
 ### implicit rules
 There are some aspects of the game that will not be listed as a changable rule, but still will take effect. Most of these will be obvious, but we'll list them here for reference.
