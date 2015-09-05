@@ -9,7 +9,7 @@
 1. lpellow
 1. mimosacb
 1. McCsocks
-2. 1. wcarss
+1. wcarss
 
 ###Round 0 Order
 1. robee
