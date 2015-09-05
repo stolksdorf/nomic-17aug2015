@@ -8,4 +8,4 @@ Meggeroni                 | 7      |              0 |
 lpellow                   | 9      |              1 |
 wcarss                    | 11     |              1 |
 mimosacb                  | 10     |              1 |
-McCsocks                  | 0      |              0 |
+McCsocks                  | 11     |              1 |
