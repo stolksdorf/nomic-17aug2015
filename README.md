@@ -77,7 +77,7 @@
 ----
 
 ##### 107: Rule of Timely Completion
-> This game ends at 11:59:59 PM EDT on September 13th, 2015 AD. 
+> This game ends once each player has proposed three rule changes.
 
 > The player with the highest point value at this time wins the game.
 
