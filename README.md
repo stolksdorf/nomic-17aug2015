@@ -83,6 +83,7 @@
 
 [[1](https://github.com/stolksdorf/nomic/pull/1)]
 [[9](https://github.com/stolksdorf/nomic/pull/9)]
+[[11](https://github.com/stolksdorf/nomic/pull/11)]
 
 ----
 
