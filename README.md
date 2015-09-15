@@ -68,7 +68,7 @@
 >> - mimosacb
 >> - McCsocks
 
-> In all subsequent rounds, the player order is shuffled after the last turn of the previous round such that the player order proceeds from least to most points. This action shall be referred to as "The Pip Shuffle" and will be coordinated by the moderators.
+> In all subsequent rounds, the player order is shuffled after the last turn of the previous round such that the player order proceeds from most to least points. This action shall be referred to as "The Pip Shuffle" and will be coordinated by the moderators.
 
 [[1](https://github.com/stolksdorf/nomic/pull/1)]
 [[2](https://github.com/stolksdorf/nomic/pull/2)]
