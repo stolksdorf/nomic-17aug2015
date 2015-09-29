@@ -109,6 +109,11 @@
 
 [[7](https://github.com/stolksdorf/nomic/pull/7)]
 
+----
+
+##### 110: Let's Keep This Gravy Train Rolling
+> If the current player in the turn order does not propose a rule within three days of their turn starting, that player is moved to the bottom of the turn order and the turn passes to the next player. The second time a player's turn is passed during a single round, they are not moved to the bottom of the turn order, thereby losing their turn for that round entirely.
+
 <sup>1</sup>[how2play.md - the arbiter](https://github.com/stolksdorf/nomic/blob/master/how2play.md#the-arbiter)
 
 ----
